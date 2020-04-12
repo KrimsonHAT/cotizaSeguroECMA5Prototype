@@ -39,6 +39,14 @@ header h1 {
 .error p {
     margin:0;
 }
+.correcto{
+    background-color: rgb(200, 250, 199);
+    border: 1px solid rgb(0, 139, 19);
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(30, 75, 24);
+}
 #contenido {
     margin-top: 60px;
     background-color: white;
